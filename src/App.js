@@ -4,7 +4,7 @@ import LibrarySelector from './components/LibrarySelector';
 import PerformanceMetrics from './components/PerformanceMetrics';
 import ThreeJSSimulation from './components/FluidSimulation/ThreeJSSimulation';
 import D3JSSimulation from './components/FluidSimulation/D3JSSimulation';
-import ChartJSSimulation from './components/FluidSimulation/ChartJSSimulation';
+
 
 const App = () => {
   const [selectedLibraries, setSelectedLibraries] = useState([]);
@@ -47,8 +47,6 @@ const App = () => {
         return <ThreeJSSimulation key="threejs" {...commonProps} />;
       case 'd3js':
         return <D3JSSimulation key="d3js" {...commonProps} />;
-      case 'chartjs':
-        return <ChartJSSimulation key="chartjs" {...commonProps} />;
       default:
         return null;
     }

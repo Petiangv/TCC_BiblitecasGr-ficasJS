@@ -37,7 +37,7 @@ const BenchmarkControls = ({ onStart, params, onParamsChange, isRunning }) => {
           </label>
         </div>
         
-        <div className="form-group">
+        {/* <div className="form-group">
           <label>
             Complexidade:
             <select
@@ -50,7 +50,7 @@ const BenchmarkControls = ({ onStart, params, onParamsChange, isRunning }) => {
               <option value="high">Alta</option>
             </select>
           </label>
-        </div>
+        </div> */}
         
         <button 
           type="submit" 
