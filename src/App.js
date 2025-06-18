@@ -12,7 +12,7 @@ const App = () => {
   const [metrics, setMetrics] = useState({});
   const [simulationParams, setSimulationParams] = useState({
     particleCount: 1000,
-    complexity: 'medium'
+    //complexity: 'medium'
   });
 
   const handleStartBenchmark = () => {
@@ -47,6 +47,7 @@ const App = () => {
         return <ThreeJSSimulation key="threejs" {...commonProps} />;
       case 'd3js':
         return <D3JSSimulation key="d3js" {...commonProps} />;
+
       default:
         return null;
     }
