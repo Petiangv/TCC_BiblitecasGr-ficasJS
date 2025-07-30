@@ -3,6 +3,8 @@ import React from 'react';
 const libraries = [
   { id: 'threejs', name: 'Three.js' },
   { id: 'd3js', name: 'D3.js' },
+  { id: 'pixi', name: 'Pixi.js' },
+  { id: 'p5', name: 'p5.js' }
 ];
 
 const LibrarySelector = ({ selectedLibraries, onSelect }) => {

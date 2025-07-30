@@ -9,6 +9,7 @@ const ThreeJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
   const cameraRef = useRef(new THREE.PerspectiveCamera(75, 1, 0.1, 1000));
   const rendererRef = useRef(null);
   const animationIdRef = useRef(null);
+  const velocitiesRef = useRef([]); // Armazenar velocidades das partículas
   
   const { recordRenderTime } = usePerformanceMetrics(isRunning, onMetricsUpdate);
 
@@ -23,10 +24,20 @@ const ThreeJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
     
     cameraRef.current.position.z = 30;
     
+    // Configura fundo cinza claro
+    sceneRef.current.background = new THREE.Color(0xf0f0f0);
+    
     // Create particles
     const particles = new THREE.BufferGeometry();
     const positions = new Float32Array(particleCount * 3);
     const colors = new Float32Array(particleCount * 3);
+    
+    // Inicializa velocidades
+    velocitiesRef.current = Array.from({ length: particleCount }, () => ({
+      vx: (Math.random() - 0.5) * 0.5,
+      vy: (Math.random() - 0.5) * 0.5,
+      vz: (Math.random() - 0.5) * 0.5
+    }));
     
     for (let i = 0; i < particleCount; i++) {
       positions[i * 3] = (Math.random() - 0.5) * 20;
@@ -42,7 +53,7 @@ const ThreeJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
     particles.setAttribute('color', new THREE.BufferAttribute(colors, 3));
     
     const particleMaterial = new THREE.PointsMaterial({
-      size: 0.1,
+      size: 1,
       vertexColors: true
     });
     
@@ -71,15 +82,31 @@ const ThreeJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
     const animate = () => {
       const startTime = performance.now();
       
-      // Update particle positions for fluid simulation
+      // Atualiza posições das partículas com velocidade e colisão
       const positions = particlesRef.current.geometry.attributes.position.array;
-      for (let i = 0; i < particleCount; i++) {
-        positions[i * 3] += (Math.random() - 0.5) * 0.1;
-        positions[i * 3 + 1] += (Math.random() - 0.5) * 0.1;
-        positions[i * 3 + 2] += (Math.random() - 0.5) * 0.1;
-      }
-      particlesRef.current.geometry.attributes.position.needsUpdate = true;
+      const boundary = 10; // Limite do espaço 3D (metade do tamanho total)
       
+      for (let i = 0; i < particleCount; i++) {
+        const velocity = velocitiesRef.current[i];
+        
+        // Atualiza posições
+        positions[i * 3] += velocity.vx;
+        positions[i * 3 + 1] += velocity.vy;
+        positions[i * 3 + 2] += velocity.vz;
+        
+        // Verifica colisões com as bordas e inverte a velocidade
+        if (positions[i * 3] < -boundary || positions[i * 3] > boundary) {
+          velocity.vx *= -1;
+        }
+        if (positions[i * 3 + 1] < -boundary || positions[i * 3 + 1] > boundary) {
+          velocity.vy *= -1;
+        }
+        if (positions[i * 3 + 2] < -boundary || positions[i * 3 + 2] > boundary) {
+          velocity.vz *= -1;
+        }
+      }
+      
+      particlesRef.current.geometry.attributes.position.needsUpdate = true;
       rendererRef.current.render(sceneRef.current, cameraRef.current);
       
       recordRenderTime(startTime);

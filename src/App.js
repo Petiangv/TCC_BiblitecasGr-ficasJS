@@ -4,7 +4,8 @@ import LibrarySelector from './components/LibrarySelector';
 import PerformanceMetrics from './components/PerformanceMetrics';
 import ThreeJSSimulation from './components/FluidSimulation/ThreeJSSimulation';
 import D3JSSimulation from './components/FluidSimulation/D3JSSimulation';
-
+import PixiJSSimulation from './components/FluidSimulation/PixiJSSimulation.jsx';
+import P5JSSimulation from './components/FluidSimulation/P5JSSimulation.jsx';
 
 const App = () => {
   const [selectedLibraries, setSelectedLibraries] = useState([]);
@@ -47,6 +48,13 @@ const App = () => {
         return <ThreeJSSimulation key="threejs" {...commonProps} />;
       case 'd3js':
         return <D3JSSimulation key="d3js" {...commonProps} />;
+
+        case 'pixi':
+        return <PixiJSSimulation key="pixi" {...commonProps} />;
+
+	 case 'p5':
+        return <P5JSSimulation key="p5" {...commonProps} />;
+
 
       default:
         return null;
