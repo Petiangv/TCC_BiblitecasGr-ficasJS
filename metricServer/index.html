@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de Envio de FPS</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        button { padding: 10px 15px; margin: 5px; cursor: pointer; }
+        .status { margin-top: 20px; padding: 10px; border-radius: 5px; }
+        .success { background-color: #d4edda; color: #155724; }
+        .error { background-color: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+    <h1>Teste de Envio de Dados FPS</h1>
+    
+    <button onclick="sendTestData()">Enviar Dados de Teste</button>
+    <button onclick="startFPSSimulation()">Simular FPS Contínuo</button>
+    <button onclick="stopFPSSimulation()">Parar Simulação</button>
+    
+    <div>
+        <h3>Último Envio:</h3>
+        <pre id="lastData">Nenhum dado enviado ainda.</pre>
+    </div>
+    
+    <div id="status" class="status"></div>
+
+    <script>
+        let simulationInterval = null;
+        let mockFPS = 60;
+
+        // Função para enviar dados de teste
+        async function sendTestData(fps = null, timestamp = null) {
+            const dataToSend = {
+                fps: fps !== null ? fps : Math.floor(Math.random() * 120) + 1, // FPS aleatório entre 1-120
+                timestamp: timestamp || new Date().toISOString(),
+                userAgent: navigator.userAgent,
+                url: window.location.href
+            };
+
+            try {
+                // Mostra os dados que serão enviados
+                document.getElementById('lastData').textContent = JSON.stringify(dataToSend, null, 2);
+                
+                const response = await fetch('http://localhost:3001/api/fps-data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(dataToSend),
+                });
+
+                const result = await response.json();
+                
+                if (response.ok) {
+                    showStatus('Dados enviados com sucesso! ID: ' + result.id, 'success');
+                    console.log('Sucesso:', result);
+                } else {
+                    showStatus('Erro no servidor: ' + (result.error || response.status), 'error');
+                    console.error('Erro:', result);
+                }
+            } catch (error) {
+                showStatus('Erro de conexão: ' + error.message, 'error');
+                console.error('Erro de rede:', error);
+            }
+        }
+
+        // Simular envio contínuo de FPS
+        function startFPSSimulation() {
+            if (simulationInterval) return;
+            
+            showStatus('Simulação iniciada...', 'success');
+            simulationInterval = setInterval(() => {
+                // Simula variação de FPS
+                mockFPS = Math.max(1, Math.min(120, mockFPS + (Math.random() * 10 - 5)));
+                sendTestData(Math.round(mockFPS));
+            }, 2000); // Envia a cada 2 segundos
+        }
+
+        function stopFPSSimulation() {
+            if (simulationInterval) {
+                clearInterval(simulationInterval);
+                simulationInterval = null;
+                showStatus('Simulação parada.', 'success');
+            }
+        }
+
+        function showStatus(message, type) {
+            const statusDiv = document.getElementById('status');
+            statusDiv.textContent = message;
+            statusDiv.className = 'status ' + type;
+        }
+
+        // Testar a conexão quando a página carrega
+        window.addEventListener('load', () => {
+            console.log('Página de teste carregada. Verifique se o servidor está rodando na porta 3001.');
+        });
+    </script>
+</body>
+</html>
