@@ -11,6 +11,43 @@ const usePerformanceMetrics = (isRunning, onUpdate) => {
     renderTime: 0
   });
 
+
+
+
+ // Função para enviar dados para o servidor
+const sendToServer = async (metrics) => {
+  const response = await fetch('http://localhost:3001/performance-metrics', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      ...metrics,
+      timestamp: new Date().toISOString(),
+      userAgent: navigator.userAgent
+    })
+  }).catch(error => {
+    console.error('Erro na requisição:', error);
+  });
+  
+  if (response && !response.ok) {
+    console.error('Erro ao enviar métricas:', response.status);
+  }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   useEffect(() => {
     if (!isRunning) {
       if (animationFrameRef.current) {
@@ -38,8 +75,16 @@ const usePerformanceMetrics = (isRunning, onUpdate) => {
           memory: memoryUsage,
           renderTime: metricsRef.current.renderTime
         };
+
         
         onUpdate(metricsRef.current);
+
+
+        // Envia para o servidor
+        sendToServer(metricsRef.current);
+
+
+
       }
       
       animationFrameRef.current = requestAnimationFrame(measurePerformance);
@@ -57,6 +102,7 @@ const usePerformanceMetrics = (isRunning, onUpdate) => {
   const recordRenderTime = (startTime) => {
     const renderTime = performance.now() - startTime;
     metricsRef.current.renderTime = renderTime;
+    sendToServer(metricsRef.current);
     onUpdate(metricsRef.current);
     return renderTime;
   };
