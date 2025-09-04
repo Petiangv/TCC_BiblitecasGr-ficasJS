@@ -86,7 +86,7 @@ class PerformanceAnalyzer:
         
         return anomalies
     
-    def generate_report(self):
+    def generate_report(self,output_file="report.txt"):
         """Gera um relatório completo em texto"""
         if self.df.empty:
             return "Nenhum dado disponível para análise"
@@ -113,6 +113,10 @@ class PerformanceAnalyzer:
                 report.append(f"  {metric}: {anomaly_info['quantidade_anomalias']} anomalias")
         else:
             report.append("Nenhuma anomalia detectada")
+
+
+        with open(output_file,'w', encoding='utf-8') as f:
+                f.write("\n".join(report))
         
         return "\n".join(report)
     
@@ -187,7 +191,7 @@ class PerformanceAnalyzer:
 # Função principal de exemplo
 def main():
     # Configuração
-    JSON_FILE = 'performanceData.json'  # Ajuste o caminho se necessário
+    JSON_FILE = 'performanceData.json'
     OUTPUT_CSV = 'performance_analysis.csv'
     PLOT_IMAGE = 'performance_plot.png'
     HEATMAP_IMAGE = 'correlation_heatmap.png'
