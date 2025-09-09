@@ -2,12 +2,21 @@ import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import usePerformanceMetrics from '../../hooks/usePerformanceMetrics';
 
-const D3JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
+const D3JSSimulation = ({ particleCount, isRunning, onMetricsUpdate, speedFactor = 1 }) => {
   const svgRef = useRef(null);
+  const particlesRef = useRef([]);
+  const animationRef = useRef(null);
+  const lastTimeRef = useRef(0);
   const { recordRenderTime } = usePerformanceMetrics(isRunning, onMetricsUpdate);
 
   useEffect(() => {
-    if (!isRunning) return;
+    if (!isRunning) {
+      if (animationRef.current) {
+        cancelAnimationFrame(animationRef.current);
+        animationRef.current = null;
+      }
+      return;
+    }
 
     const svg = d3.select(svgRef.current);
     const width = svg.node().clientWidth;
@@ -16,49 +25,78 @@ const D3JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
     // Limpa o SVG antes de começar
     svg.selectAll('*').remove();
 
-    // Cria partículas
-    const particles = Array.from({ length: particleCount }, () => ({
+    // Cria partículas com velocidades base
+    particlesRef.current = Array.from({ length: particleCount }, () => ({
       x: Math.random() * width,
       y: Math.random() * height,
-      vx: (Math.random() - 0.5) * 2,
-      vy: (Math.random() - 0.5) * 2
+      vx: (Math.random() - 0.5) * 2 * speedFactor,
+      vy: (Math.random() - 0.5) * 2 * speedFactor,
+      radius: 1.1 + Math.random() * 1.1,
+      color: d3.interpolateRainbow(Math.random())
     }));
 
-    // Desenha partículas iniciais
-    const circles = svg.selectAll('circle')
-      .data(particles)
+    // OTIMIZAÇÃO: Usa um único elemento <g> para todas as partículas
+    const container = svg.append('g');
+    
+    // Desenha partículas iniciais - mais eficiente
+    const circles = container.selectAll('circle')
+      .data(particlesRef.current)
       .enter()
       .append('circle')
-      .attr('r', 2)
-      .attr('fill', () => d3.interpolateRainbow(Math.random()));
+      .attr('r', d => d.radius)
+      .attr('fill', d => d.color)
+      .attr('cx', d => d.x)
+      .attr('cy', d => d.y);
 
-    let animationFrame;
+    lastTimeRef.current = performance.now();
 
-    const animate = () => {
+    const animate = (currentTime) => {
+      const deltaTime = (currentTime - lastTimeRef.current) / 16.67; // Normalizado para 60fps
+      lastTimeRef.current = currentTime;
+
       const startTime = performance.now();
 
+      // Atualiza posições com delta time para movimento suave
+      particlesRef.current.forEach(particle => {
+        particle.x += particle.vx * deltaTime;
+        particle.y += particle.vy * deltaTime;
+
+        // Colisão com bordas
+        if (particle.x < particle.radius) {
+          particle.x = particle.radius;
+          particle.vx = Math.abs(particle.vx);
+        } else if (particle.x > width - particle.radius) {
+          particle.x = width - particle.radius;
+          particle.vx = -Math.abs(particle.vx);
+        }
+
+        if (particle.y < particle.radius) {
+          particle.y = particle.radius;
+          particle.vy = Math.abs(particle.vy);
+        } else if (particle.y > height - particle.radius) {
+          particle.y = height - particle.radius;
+          particle.vy = -Math.abs(particle.vy);
+        }
+      });
+
+      // OTIMIZAÇÃO: Atualização em lote usando data binding
       circles
-        .attr('cx', d => {
-          d.x += d.vx;
-          if (d.x < 0 || d.x > width) d.vx *= -1;
-          return d.x;
-        })
-        .attr('cy', d => {
-          d.y += d.vy;
-          if (d.y < 0 || d.y > height) d.vy *= -1;
-          return d.y;
-        });
+        .data(particlesRef.current)
+        .attr('cx', d => d.x)
+        .attr('cy', d => d.y);
 
       recordRenderTime(startTime);
-      animationFrame = requestAnimationFrame(animate);
+      animationRef.current = requestAnimationFrame(animate);
     };
 
-    animationFrame = requestAnimationFrame(animate);
+    animationRef.current = requestAnimationFrame(animate);
 
     return () => {
-      if (animationFrame) cancelAnimationFrame(animationFrame);
+      if (animationRef.current) {
+        cancelAnimationFrame(animationRef.current);
+      }
     };
-  }, [isRunning, particleCount, recordRenderTime]);
+  }, [isRunning, particleCount, recordRenderTime, speedFactor]);
 
   return (
     <svg 

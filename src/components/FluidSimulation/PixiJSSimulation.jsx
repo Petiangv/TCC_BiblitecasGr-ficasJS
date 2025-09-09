@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import * as PIXI from 'pixi.js';
 import usePerformanceMetrics from '../../hooks/usePerformanceMetrics';
 
-const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
+const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate, speedFactor = 3 }) => {
   const containerRef = useRef(null);
   const appRef = useRef(null);
   const particlesRef = useRef([]);
@@ -20,21 +20,18 @@ const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
           appRef.current.destroy(true);
           appRef.current = null;
         }
-        
-
 
         // Criar nova aplicação PixiJS
- appRef.current = new PIXI.Application();
+        appRef.current = new PIXI.Application();
 
         // Inicializar com a configuração correta do background
         await appRef.current.init({
-          background: '#F0F0F0', // ← SINTAXE CORRETA!
+          background: '#F0F0F0',
           resizeTo: containerRef.current,
           antialias: true,
           resolution: window.devicePixelRatio || 1,
           autoDensity: true
         });
-    
 
         // Adicionar canvas ao container
         const canvas = appRef.current.canvas;
@@ -71,8 +68,10 @@ const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
 
         graphics.x = Math.random() * appRef.current.screen.width;
         graphics.y = Math.random() * appRef.current.screen.height;
-        graphics.vx = (Math.random() - 0.5) * 4;
-        graphics.vy = (Math.random() - 0.5) * 4;
+        
+        // Aplica speedFactor nas velocidades iniciais
+        graphics.vx = (Math.random() - 0.5) * 4 * speedFactor;
+        graphics.vy = (Math.random() - 0.5) * 4 * speedFactor;
 
         appRef.current.stage.addChild(graphics);
         particlesRef.current.push(graphics);
@@ -89,7 +88,7 @@ const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
 
         const startTime = performance.now();
 
-        // Atualizar partículas
+        // Atualizar partículas com speedFactor aplicado
         particlesRef.current.forEach(particle => {
           particle.x += particle.vx;
           particle.y += particle.vy;
@@ -122,7 +121,6 @@ const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
       }
       
       if (appRef.current) {
-        // Usar setTimeout para evitar problemas de timing
         setTimeout(() => {
           if (appRef.current) {
             try {
@@ -135,7 +133,7 @@ const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
         }, 0);
       }
     };
-  }, [particleCount]); // Removi isRunning e recordRenderTime das dependências
+  }, [particleCount, speedFactor]); // Adiciona speedFactor como dependência
 
   // Controle de animação separado
   useEffect(() => {
@@ -182,6 +180,22 @@ const PixiJSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
       animationRef.current = requestAnimationFrame(animate);
     }
   }, [isRunning, recordRenderTime]);
+
+  // Atualizar velocidades quando speedFactor mudar
+  useEffect(() => {
+    if (!appRef.current || particlesRef.current.length === 0) return;
+
+    // Atualiza as velocidades existentes com o novo speedFactor
+    particlesRef.current.forEach(particle => {
+      const originalSpeedX = Math.abs(particle.vx) / speedFactor;
+      const originalSpeedY = Math.abs(particle.vy) / speedFactor;
+      const directionX = Math.sign(particle.vx);
+      const directionY = Math.sign(particle.vy);
+      
+      particle.vx = directionX * originalSpeedX * speedFactor;
+      particle.vy = directionY * originalSpeedY * speedFactor;
+    });
+  }, [speedFactor]);
 
   // Redimensionamento
   useEffect(() => {

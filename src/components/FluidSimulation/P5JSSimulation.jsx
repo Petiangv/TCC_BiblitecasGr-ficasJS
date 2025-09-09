@@ -5,13 +5,14 @@ import p5 from 'p5';
 const P5JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
   const canvasContainerRef = useRef(null);
   const p5InstanceRef = useRef(null);
-  const particlesRef = useRef([]);
   const { recordRenderTime } = usePerformanceMetrics(isRunning, onMetricsUpdate);
 
   useEffect(() => {
     if (!canvasContainerRef.current || p5InstanceRef.current) return;
 
     const sketch = (p) => {
+      let particles = [];
+
       p.setup = () => {
         const container = canvasContainerRef.current;
         const width = container.clientWidth || 800;
@@ -20,8 +21,8 @@ const P5JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
         const canvas = p.createCanvas(width, height);
         canvas.style('display', 'block');
         
-        // Inicializar partículas como no original
-        particlesRef.current = Array.from({ length: particleCount }, () => ({
+        // Inicializar partículas
+        particles = Array.from({ length: particleCount }, () => ({
           x: p.random(p.width),
           y: p.random(p.height),
           vx: p.random(-2, 2),
@@ -37,11 +38,11 @@ const P5JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
       p.draw = () => {
         const startTime = performance.now();
         
-        // Limpar canvas completamente (sem alpha)
+        // Limpar canvas completamente
         p.background(240);
 
-        // Renderizar partículas
-        particlesRef.current.forEach(particle => {
+        // Renderizar e atualizar partículas
+        particles.forEach(particle => {
           p.fill(particle.color);
           p.noStroke();
           p.circle(particle.x, particle.y, 4);
@@ -51,7 +52,7 @@ const P5JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
             particle.x += particle.vx;
             particle.y += particle.vy;
 
-            // Colisão com bordas (simples como no original)
+            // Colisão com bordas
             if (particle.x < 0 || particle.x > p.width) particle.vx *= -1;
             if (particle.y < 0 || particle.y > p.height) particle.vy *= -1;
           }
@@ -75,7 +76,7 @@ const P5JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
         p5InstanceRef.current = null;
       }
     };
-  }, [particleCount]);
+  }, [particleCount, recordRenderTime]);
 
   // Efeito para controlar play/pause
   useEffect(() => {
@@ -84,6 +85,7 @@ const P5JSSimulation = ({ particleCount, isRunning, onMetricsUpdate }) => {
         p5InstanceRef.current.loop();
       } else {
         p5InstanceRef.current.noLoop();
+        // Forçar um redraw para mostrar o estado atual
         p5InstanceRef.current.redraw();
       }
     }

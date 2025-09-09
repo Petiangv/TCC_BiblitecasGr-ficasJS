@@ -120,68 +120,7 @@ class PerformanceAnalyzer:
         
         return "\n".join(report)
     
-    def plot_metrics(self, save_path=None):
-        """Cria gráficos das métricas"""
-        if self.df.empty:
-            print("Nenhum dado para plotar")
-            return
-        
-        fig, axes = plt.subplots(3, 1, figsize=(12, 10))
-        fig.suptitle('Análise de Performance - Métricas ao Longo do Tempo', fontsize=16)
-        
-        # Plot FPS
-        if 'fps' in self.df.columns and 'time_seconds' in self.df.columns:
-            axes[0].plot(self.df['time_seconds'], self.df['fps'], 'b-', alpha=0.7)
-            axes[0].set_ylabel('FPS')
-            axes[0].grid(True, alpha=0.3)
-            axes[0].set_title('Frames por Segundo')
-        
-        # Plot Memória
-        if 'memory' in self.df.columns and 'time_seconds' in self.df.columns:
-            axes[1].plot(self.df['time_seconds'], self.df['memory'], 'r-', alpha=0.7)
-            axes[1].set_ylabel('Memória (MB)')
-            axes[1].grid(True, alpha=0.3)
-            axes[1].set_title('Uso de Memória')
-        
-        # Plot Tempo de Render
-        if 'renderTime' in self.df.columns and 'time_seconds' in self.df.columns:
-            axes[2].plot(self.df['time_seconds'], self.df['renderTime'], 'g-', alpha=0.7)
-            axes[2].set_xlabel('Tempo (segundos)')
-            axes[2].set_ylabel('Tempo de Render (ms)')
-            axes[2].grid(True, alpha=0.3)
-            axes[2].set_title('Tempo de Renderização')
-        
-        plt.tight_layout()
-        
-        if save_path:
-            plt.savefig(save_path, dpi=300, bbox_inches='tight')
-            print(f"Gráfico salvo em: {save_path}")
-        
-        plt.show()
-    
-    def plot_correlation_heatmap(self, save_path=None):
-        """Cria heatmap de correlação entre métricas"""
-        if self.df.empty:
-            return
-        
-        # Seleciona apenas colunas numéricas para correlação
-        numeric_cols = ['fps', 'memory', 'renderTime']
-        numeric_df = self.df[numeric_cols].dropna()
-        
-        if len(numeric_df) > 1:
-            correlation_matrix = numeric_df.corr()
-            
-            plt.figure(figsize=(8, 6))
-            sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0,
-                       square=True, fmt='.2f')
-            plt.title('Matriz de Correlação entre Métricas de Performance')
-            
-            if save_path:
-                plt.savefig(save_path, dpi=300, bbox_inches='tight')
-                print(f"Heatmap salvo em: {save_path}")
-            
-            plt.show()
-    
+       
     def export_to_csv(self, csv_path):
         """Exporta dados para CSV"""
         if not self.df.empty:
@@ -214,10 +153,8 @@ def main():
         for stat, value in values.items():
             print(f"  {stat}: {value}")
     
-    # Cria gráficos
-    analyzer.plot_metrics(PLOT_IMAGE)
-    analyzer.plot_correlation_heatmap(HEATMAP_IMAGE)
-    
+
+        
     # Exporta para CSV
     analyzer.export_to_csv(OUTPUT_CSV)
     
