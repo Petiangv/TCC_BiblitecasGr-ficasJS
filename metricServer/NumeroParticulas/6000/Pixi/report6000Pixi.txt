@@ -1,0 +1,32 @@
+============================================================
+RELATÓRIO DE ANÁLISE DE PERFORMANCE
+============================================================
+Período analisado: 500 registros
+Período temporal: 2025-09-11 19:22:56.306000+00:00 até 2025-09-11 19:23:13.338000+00:00
+
+--- FPS ---
+  média: 60.57
+  mediana: 61.0
+  desvio_padrão: 0.5
+  mínimo: 60
+  máximo: 61
+  quantidade: 500
+
+--- MEMORY ---
+  média: 82.67
+  mediana: 83.91
+  desvio_padrão: 12.45
+  mínimo: 67.84
+  máximo: 104.58
+  quantidade: 500
+
+--- RENDERTIME ---
+  média: 0.97
+  mediana: 0.9
+  desvio_padrão: 0.33
+  mínimo: 0.5
+  máximo: 3.4
+  quantidade: 500
+
+--- ANOMALIAS DETECTADAS ---
+  renderTime: 9 anomalias

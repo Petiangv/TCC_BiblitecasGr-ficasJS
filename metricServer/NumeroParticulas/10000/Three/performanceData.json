@@ -1,0 +1,4002 @@
+[
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 85.20000000111759,
+    "timestamp": "2025-09-11T19:24:56.344Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618697899masftgnzz"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 109.59999999962747,
+    "timestamp": "2025-09-11T19:24:56.464Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618697929f4ae2etxa"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 93.69999999925494,
+    "timestamp": "2025-09-11T19:24:56.562Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186979332v07544z8"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 101.40000000037253,
+    "timestamp": "2025-09-11T19:24:56.675Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618697936rp810jxce"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 109.69999999925494,
+    "timestamp": "2025-09-11T19:24:56.789Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618697969dx4o96jjn"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 94.70000000111759,
+    "timestamp": "2025-09-11T19:24:56.895Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618697976h6fe58570"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 82.29999999888241,
+    "timestamp": "2025-09-11T19:24:57.252Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618697981ibo46fzcy"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 71.80000000074506,
+    "timestamp": "2025-09-11T19:24:56.971Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186979860cb3zjfjj"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 70.90000000037253,
+    "timestamp": "2025-09-11T19:24:57.050Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186979943hiizk6o5"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 94.20000000111759,
+    "timestamp": "2025-09-11T19:24:57.156Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698001jrav8wpsq"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 82.29999999888241,
+    "timestamp": "2025-09-11T19:24:57.243Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698006yleqiz0fi"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 86.60000000149012,
+    "timestamp": "2025-09-11T19:24:57.340Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698015fh0v17qvz"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 89.09999999962747,
+    "timestamp": "2025-09-11T19:24:57.438Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698018ygfwh2d8n"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 102.5,
+    "timestamp": "2025-09-11T19:24:57.550Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869802458xmbh1uk"
+  },
+  {
+    "fps": 1,
+    "memory": 511.7316732406616,
+    "renderTime": 0,
+    "timestamp": "2025-09-11T19:24:37.737Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186980319lv12l4qv"
+  },
+  {
+    "fps": 1,
+    "memory": 511.7316732406616,
+    "renderTime": 6968.9000000003725,
+    "timestamp": "2025-09-11T19:24:44.707Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698034sxitrb6xa"
+  },
+  {
+    "fps": 1,
+    "memory": 553.3231973648071,
+    "renderTime": 6968.9000000003725,
+    "timestamp": "2025-09-11T19:24:44.714Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698041qc6d0l7zw"
+  },
+  {
+    "fps": 1,
+    "memory": 553.3231973648071,
+    "renderTime": 1116.9000000003725,
+    "timestamp": "2025-09-11T19:24:45.831Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698046bodlphgvx"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 1116.9000000003725,
+    "timestamp": "2025-09-11T19:24:45.856Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698050zvchm78um"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 80.29999999888241,
+    "timestamp": "2025-09-11T19:24:45.937Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698055adkhmwjfu"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 55.19999999925494,
+    "timestamp": "2025-09-11T19:24:46.003Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698065lobe1nbo8"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 60.40000000037253,
+    "timestamp": "2025-09-11T19:24:46.082Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186980684uyj4qcav"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 101.59999999962747,
+    "timestamp": "2025-09-11T19:24:46.188Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698075a8pgjct44"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 46,
+    "timestamp": "2025-09-11T19:24:46.244Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698077ec25r2bhb"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 71.89999999850988,
+    "timestamp": "2025-09-11T19:24:46.320Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698080pj80kmuas"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 57.70000000111759,
+    "timestamp": "2025-09-11T19:24:46.389Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186980827r29p0zx9"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 51.59999999962747,
+    "timestamp": "2025-09-11T19:24:46.445Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698085m8wnj46sh"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 52.69999999925494,
+    "timestamp": "2025-09-11T19:24:46.507Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186980931pb0534u7"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 51.29999999888241,
+    "timestamp": "2025-09-11T19:24:46.561Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698096fv6u3nyda"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 50.19999999925494,
+    "timestamp": "2025-09-11T19:24:46.623Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698098nki01q572"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 50.59999999962747,
+    "timestamp": "2025-09-11T19:24:46.681Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186981009gypigd45"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 48.59999999962747,
+    "timestamp": "2025-09-11T19:24:46.738Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698101udg4ypw8c"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 50.90000000037253,
+    "timestamp": "2025-09-11T19:24:46.798Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869810372hm4hh8n"
+  },
+  {
+    "fps": 1,
+    "memory": 556.5048208236694,
+    "renderTime": 49.59999999962747,
+    "timestamp": "2025-09-11T19:24:46.851Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698107r64qzpd2f"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 49.59999999962747,
+    "timestamp": "2025-09-11T19:24:46.862Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698109mnrwpf6au"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 49.30000000074506,
+    "timestamp": "2025-09-11T19:24:46.912Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698111zhptzxswu"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.30000000074506,
+    "timestamp": "2025-09-11T19:24:46.966Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698113vejy2bqbb"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 48.5,
+    "timestamp": "2025-09-11T19:24:47.023Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698115o8l6lkqi6"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.19999999925494,
+    "timestamp": "2025-09-11T19:24:47.082Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698122gp5txu8u6"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.90000000037253,
+    "timestamp": "2025-09-11T19:24:47.140Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698126axjjkk3ga"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.29999999888241,
+    "timestamp": "2025-09-11T19:24:47.198Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698127rdkf0yen1"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 51.5,
+    "timestamp": "2025-09-11T19:24:47.257Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698129atl886n31"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 53.59999999962747,
+    "timestamp": "2025-09-11T19:24:47.318Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186981333rj60zwvw"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 52.79999999888241,
+    "timestamp": "2025-09-11T19:24:47.378Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698139n6h4d6w11"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.69999999925494,
+    "timestamp": "2025-09-11T19:24:47.437Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186981417a3zn8s2o"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.40000000037253,
+    "timestamp": "2025-09-11T19:24:47.495Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186981449055dkqnm"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.90000000037253,
+    "timestamp": "2025-09-11T19:24:47.553Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698146v1s6149md"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 53.90000000037253,
+    "timestamp": "2025-09-11T19:24:47.615Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186981483729p60m5"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 51.29999999888241,
+    "timestamp": "2025-09-11T19:24:47.678Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698149mtpuer1ec"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 49.899999998509884,
+    "timestamp": "2025-09-11T19:24:47.732Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698152kgnvfi4rx"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 50.40000000037253,
+    "timestamp": "2025-09-11T19:24:47.789Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698156euke27lgj"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 49.399999998509884,
+    "timestamp": "2025-09-11T19:24:47.846Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869816086cutl50a"
+  },
+  {
+    "fps": 15,
+    "memory": 556.6231832504272,
+    "renderTime": 51,
+    "timestamp": "2025-09-11T19:24:47.904Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698168uzk4yglor"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 51,
+    "timestamp": "2025-09-11T19:24:47.911Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698170vzkaodxsk"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 50.59999999962747,
+    "timestamp": "2025-09-11T19:24:47.963Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698175ebt6n98sr"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 49.20000000111759,
+    "timestamp": "2025-09-11T19:24:48.019Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698178qwpp8pc2a"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 48.09999999962747,
+    "timestamp": "2025-09-11T19:24:48.074Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186981853mbguc4nx"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 68,
+    "timestamp": "2025-09-11T19:24:48.149Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698187xxpf9rhod"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 52.5,
+    "timestamp": "2025-09-11T19:24:48.209Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698191yb50nqp17"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 50.5,
+    "timestamp": "2025-09-11T19:24:48.268Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698194w4hcn56zl"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 48.80000000074506,
+    "timestamp": "2025-09-11T19:24:48.324Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698200j4fymomjl"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 49.19999999925494,
+    "timestamp": "2025-09-11T19:24:48.380Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186982032iy00x3rm"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 51.19999999925494,
+    "timestamp": "2025-09-11T19:24:48.439Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698209scqk46g2l"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 48.80000000074506,
+    "timestamp": "2025-09-11T19:24:48.494Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698215e1a6j6ij9"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 50.40000000037253,
+    "timestamp": "2025-09-11T19:24:48.552Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698217sgh9o3262"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 50.80000000074506,
+    "timestamp": "2025-09-11T19:24:48.610Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698218ds2s2on8v"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 50.899999998509884,
+    "timestamp": "2025-09-11T19:24:48.667Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698221b3nydqcs6"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 49.90000000037253,
+    "timestamp": "2025-09-11T19:24:48.723Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698224c64r4hz51"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 49.90000000037253,
+    "timestamp": "2025-09-11T19:24:48.781Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698233pqbvz9hhx"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 50.899999998509884,
+    "timestamp": "2025-09-11T19:24:48.838Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698235ojbw1spz9"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 53.20000000111759,
+    "timestamp": "2025-09-11T19:24:48.899Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698238snslyvgl8"
+  },
+  {
+    "fps": 18,
+    "memory": 554.4112005233765,
+    "renderTime": 56.80000000074506,
+    "timestamp": "2025-09-11T19:24:48.962Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186982427q97edizz"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 56.80000000074506,
+    "timestamp": "2025-09-11T19:24:48.969Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698248a0rjaalk2"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 59.69999999925494,
+    "timestamp": "2025-09-11T19:24:49.029Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698250wox6nrlon"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 57.70000000111759,
+    "timestamp": "2025-09-11T19:24:49.095Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698255gmdatmv80"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 53.79999999888241,
+    "timestamp": "2025-09-11T19:24:49.157Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698262vtvogn291"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 51,
+    "timestamp": "2025-09-11T19:24:49.215Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698266ohd4k7j8c"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 49.20000000111759,
+    "timestamp": "2025-09-11T19:24:49.271Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698269zko54pd29"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 50.09999999962747,
+    "timestamp": "2025-09-11T19:24:49.328Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698274gkfig7zd3"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 50.5,
+    "timestamp": "2025-09-11T19:24:49.386Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186982849vu0w7jni"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 50.5,
+    "timestamp": "2025-09-11T19:24:49.443Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698286w8ydrocvy"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 50.20000000111759,
+    "timestamp": "2025-09-11T19:24:49.499Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698290qz721pb8a"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 49.69999999925494,
+    "timestamp": "2025-09-11T19:24:49.556Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698292kl1dcpy22"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 50,
+    "timestamp": "2025-09-11T19:24:49.613Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698294tk1eja9jl"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 49.29999999888241,
+    "timestamp": "2025-09-11T19:24:49.669Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186982969t30478z7"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 49.80000000074506,
+    "timestamp": "2025-09-11T19:24:49.726Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698300c2rngqdfj"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 52.70000000111759,
+    "timestamp": "2025-09-11T19:24:49.787Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698302fcx8irynu"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 52.80000000074506,
+    "timestamp": "2025-09-11T19:24:49.847Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698307cuqpa3q0f"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 51.90000000037253,
+    "timestamp": "2025-09-11T19:24:49.907Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698314eqyneahf6"
+  },
+  {
+    "fps": 18,
+    "memory": 578.6330270767212,
+    "renderTime": 50.90000000037253,
+    "timestamp": "2025-09-11T19:24:49.964Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983176sqy5q0ww"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 50.90000000037253,
+    "timestamp": "2025-09-11T19:24:49.970Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698319ni78ikf65"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 88,
+    "timestamp": "2025-09-11T19:24:57.648Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698325iucrs97nz"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 49.30000000074506,
+    "timestamp": "2025-09-11T19:24:50.020Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698328jjrf1h61f"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 50.399999998509884,
+    "timestamp": "2025-09-11T19:24:50.076Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698330g9b121qgy"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 50.70000000111759,
+    "timestamp": "2025-09-11T19:24:50.134Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698333pioiq16s0"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 50.5,
+    "timestamp": "2025-09-11T19:24:50.191Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698336rickmj580"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 51.80000000074506,
+    "timestamp": "2025-09-11T19:24:50.250Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983436q6ovo27q"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 51.80000000074506,
+    "timestamp": "2025-09-11T19:24:50.308Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983478uwcb2g8m"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 50.40000000037253,
+    "timestamp": "2025-09-11T19:24:50.366Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983498xw5cu9l5"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 53.40000000037253,
+    "timestamp": "2025-09-11T19:24:50.426Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698352v3977wzxr"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 48.79999999888241,
+    "timestamp": "2025-09-11T19:24:50.481Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869835764cgn5q6h"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 53.600000001490116,
+    "timestamp": "2025-09-11T19:24:50.541Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698359mvbtjqhcm"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 51.09999999962747,
+    "timestamp": "2025-09-11T19:24:50.600Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698363rzxylmbxr"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 49.899999998509884,
+    "timestamp": "2025-09-11T19:24:50.654Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983662c15iuhm2"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 49.59999999962747,
+    "timestamp": "2025-09-11T19:24:50.710Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698373ztdbqojxw"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 50.09999999962747,
+    "timestamp": "2025-09-11T19:24:50.766Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983769fnz8gdgg"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 51.40000000037253,
+    "timestamp": "2025-09-11T19:24:50.824Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698378fng4676ld"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 51.20000000111759,
+    "timestamp": "2025-09-11T19:24:50.882Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186983881d14ask9r"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 49.59999999962747,
+    "timestamp": "2025-09-11T19:24:50.938Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698396i3zi7fu1h"
+  },
+  {
+    "fps": 17,
+    "memory": 569.7742128372192,
+    "renderTime": 51,
+    "timestamp": "2025-09-11T19:24:50.996Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698402at70g90ch"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 51,
+    "timestamp": "2025-09-11T19:24:51.003Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869840769uhavh4t"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 54.399999998509884,
+    "timestamp": "2025-09-11T19:24:51.058Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186984119dkpo582d"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 50.09999999962747,
+    "timestamp": "2025-09-11T19:24:51.114Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698416xtfla33tl"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 50.30000000074506,
+    "timestamp": "2025-09-11T19:24:51.171Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186984190oy47j09b"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 50.19999999925494,
+    "timestamp": "2025-09-11T19:24:51.227Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186984250f2h0ofoc"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 49.80000000074506,
+    "timestamp": "2025-09-11T19:24:51.284Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186984340ab42kymh"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 55.5,
+    "timestamp": "2025-09-11T19:24:51.346Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698438tsqblu2d6"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 58.90000000037253,
+    "timestamp": "2025-09-11T19:24:51.413Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186984432ns75tcv4"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 49,
+    "timestamp": "2025-09-11T19:24:51.469Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698450g10cyxbnt"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 50.30000000074506,
+    "timestamp": "2025-09-11T19:24:51.525Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698454tmyjcdgu8"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 60.100000001490116,
+    "timestamp": "2025-09-11T19:24:51.593Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698464oodh66e7k"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 57.40000000037253,
+    "timestamp": "2025-09-11T19:24:51.657Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698467h8uuq9z2e"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 51.69999999925494,
+    "timestamp": "2025-09-11T19:24:51.716Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186984698ruj9nwup"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 51.09999999962747,
+    "timestamp": "2025-09-11T19:24:51.773Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698473enux0r7ga"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 50.40000000037253,
+    "timestamp": "2025-09-11T19:24:51.830Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698482we6edffnr"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 50,
+    "timestamp": "2025-09-11T19:24:51.887Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698484x0mfq161t"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 58.5,
+    "timestamp": "2025-09-11T19:24:51.952Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698496xwm5t1ae0"
+  },
+  {
+    "fps": 18,
+    "memory": 561.0031023025513,
+    "renderTime": 53.5,
+    "timestamp": "2025-09-11T19:24:52.012Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698498ncqq32fwz"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 53.5,
+    "timestamp": "2025-09-11T19:24:52.018Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869850179zoa7tav"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 51.100000001490116,
+    "timestamp": "2025-09-11T19:24:52.070Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869850614egnqhev"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 50.59999999962747,
+    "timestamp": "2025-09-11T19:24:52.128Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698513mu59vel48"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 49.600000001490116,
+    "timestamp": "2025-09-11T19:24:52.185Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186985163v0m5k2uc"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 49.59999999962747,
+    "timestamp": "2025-09-11T19:24:52.241Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698530kbq1evkd1"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 50.399999998509884,
+    "timestamp": "2025-09-11T19:24:52.298Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186985342fzbiwrru"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 52.40000000037253,
+    "timestamp": "2025-09-11T19:24:52.357Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698537h5x20wxwb"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 54,
+    "timestamp": "2025-09-11T19:24:52.418Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869854396sccr13m"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 54.30000000074506,
+    "timestamp": "2025-09-11T19:24:52.479Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698547zkpglocul"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 50.59999999962747,
+    "timestamp": "2025-09-11T19:24:52.535Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698550yns86i5mu"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 52.20000000111759,
+    "timestamp": "2025-09-11T19:24:52.594Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698564kmlilf4i0"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 55.29999999888241,
+    "timestamp": "2025-09-11T19:24:52.655Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698568cd9nwgb60"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 62.30000000074506,
+    "timestamp": "2025-09-11T19:24:52.725Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186985738rgi3zetu"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 63.79999999888241,
+    "timestamp": "2025-09-11T19:24:52.796Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698576n85zlvvkd"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 50.30000000074506,
+    "timestamp": "2025-09-11T19:24:52.853Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698579nckaiuuen"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 48.899999998509884,
+    "timestamp": "2025-09-11T19:24:52.908Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186985829xo0gseic"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 59.80000000074506,
+    "timestamp": "2025-09-11T19:24:52.975Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698596f5ufzj9qg"
+  },
+  {
+    "fps": 17,
+    "memory": 583.6536989212036,
+    "renderTime": 51.70000000111759,
+    "timestamp": "2025-09-11T19:24:53.033Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698599yxbgtow0s"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 51.70000000111759,
+    "timestamp": "2025-09-11T19:24:53.040Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186986027zwz6sttc"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 52.59999999962747,
+    "timestamp": "2025-09-11T19:24:53.093Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186986078cpvkdj28"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 50.40000000037253,
+    "timestamp": "2025-09-11T19:24:53.150Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869861010e7lp7v2"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 52.70000000111759,
+    "timestamp": "2025-09-11T19:24:53.209Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698613rzhq2r5wz"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 51.20000000111759,
+    "timestamp": "2025-09-11T19:24:53.267Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186986288bxe7iots"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 53.30000000074506,
+    "timestamp": "2025-09-11T19:24:53.329Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698631n9vct5ob4"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 55.90000000037253,
+    "timestamp": "2025-09-11T19:24:53.391Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698634pdtbdq92j"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 55.5,
+    "timestamp": "2025-09-11T19:24:53.454Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698639uvwf96ktu"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 56.59999999962747,
+    "timestamp": "2025-09-11T19:24:53.519Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698642zl0d7bah6"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 57.20000000111759,
+    "timestamp": "2025-09-11T19:24:53.583Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186986440mu97obm6"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:24:53.652Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869865572o0tag0z"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 69.19999999925494,
+    "timestamp": "2025-09-11T19:24:53.725Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698658ho3p2ggpq"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 64.69999999925494,
+    "timestamp": "2025-09-11T19:24:53.799Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869866192wz2og1m"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 68.79999999888241,
+    "timestamp": "2025-09-11T19:24:53.876Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869867191g0t66yl"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 93.90000000037253,
+    "timestamp": "2025-09-11T19:24:53.980Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869867691d9nfmje"
+  },
+  {
+    "fps": 17,
+    "memory": 574.4241800308228,
+    "renderTime": 74.29999999888241,
+    "timestamp": "2025-09-11T19:24:54.063Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698678pn2rtw5n2"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 74.29999999888241,
+    "timestamp": "2025-09-11T19:24:54.071Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186986858th3ma7za"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 62,
+    "timestamp": "2025-09-11T19:24:54.134Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186986892r0muwe1q"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 52.40000000037253,
+    "timestamp": "2025-09-11T19:24:54.193Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698691eu1ractx9"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 55.5,
+    "timestamp": "2025-09-11T19:24:54.255Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698699l10ixq5g8"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 57.40000000037253,
+    "timestamp": "2025-09-11T19:24:54.320Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698701nxv4vopbt"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 55.899999998509884,
+    "timestamp": "2025-09-11T19:24:54.384Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698705cra9ffxdf"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 58.80000000074506,
+    "timestamp": "2025-09-11T19:24:54.450Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186987161fu3rl8i5"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 55.90000000037253,
+    "timestamp": "2025-09-11T19:24:54.514Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869871862f3d6mm3"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 66.90000000037253,
+    "timestamp": "2025-09-11T19:24:54.587Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698722c749kct94"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 68.90000000037253,
+    "timestamp": "2025-09-11T19:24:54.664Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698725kj46ddkag"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 54.90000000037253,
+    "timestamp": "2025-09-11T19:24:54.726Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698732b8qhiql15"
+  },
+  {
+    "fps": 15,
+    "memory": 560.4607973098755,
+    "renderTime": 425,
+    "timestamp": "2025-09-11T19:24:55.157Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698734rb8snp14l"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 425,
+    "timestamp": "2025-09-11T19:24:55.166Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698739e73svo8vl"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 84.90000000037253,
+    "timestamp": "2025-09-11T19:24:55.252Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698745588j1ydaj"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 88.79999999888241,
+    "timestamp": "2025-09-11T19:24:55.351Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698747ceyoyjixh"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 81.90000000037253,
+    "timestamp": "2025-09-11T19:24:55.444Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186987505q26gz6w3"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 81.5,
+    "timestamp": "2025-09-11T19:24:55.529Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698752wh4l2at6d"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 81.20000000111759,
+    "timestamp": "2025-09-11T19:24:55.620Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698756f84ty73l0"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 75.69999999925494,
+    "timestamp": "2025-09-11T19:24:57.728Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698766uluy31ehx"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 68.79999999888241,
+    "timestamp": "2025-09-11T19:24:55.696Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186987694cdcaz7pd"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 67.40000000037253,
+    "timestamp": "2025-09-11T19:24:55.772Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698774xeywujrbo"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 73.20000000111759,
+    "timestamp": "2025-09-11T19:24:55.853Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698782vc478hpd2"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 91.90000000037253,
+    "timestamp": "2025-09-11T19:24:55.955Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698785r41xbcon7"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 89.79999999888241,
+    "timestamp": "2025-09-11T19:24:56.054Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698797pn75sply2"
+  },
+  {
+    "fps": 11,
+    "memory": 574.9708833694458,
+    "renderTime": 110.19999999925494,
+    "timestamp": "2025-09-11T19:24:56.169Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698799p4vmn1esx"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 110.19999999925494,
+    "timestamp": "2025-09-11T19:24:56.179Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698802x4ftt5pty"
+  },
+  {
+    "fps": 11,
+    "memory": 587.1444330215454,
+    "renderTime": 73.60000000149012,
+    "timestamp": "2025-09-11T19:24:56.254Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698806zr7waniiq"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 51.80000000074506,
+    "timestamp": "2025-09-11T19:24:57.789Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698812jvnpf15m7"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 51,
+    "timestamp": "2025-09-11T19:24:57.846Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186988152osyrz2aa"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 69.59999999962747,
+    "timestamp": "2025-09-11T19:24:57.922Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186988202qlv1pfoe"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 145.2999999988824,
+    "timestamp": "2025-09-11T19:24:58.076Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186988298uwyvkyew"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 97.10000000149012,
+    "timestamp": "2025-09-11T19:24:58.187Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698832bxrcf4srs"
+  },
+  {
+    "fps": 11,
+    "memory": 565.0781717300415,
+    "renderTime": 102.09999999962747,
+    "timestamp": "2025-09-11T19:24:58.300Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869883499swd2u4e"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 102.09999999962747,
+    "timestamp": "2025-09-11T19:24:58.318Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186988378tx2qto90"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 114.20000000111759,
+    "timestamp": "2025-09-11T19:24:58.433Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698840u4rodb4wa"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 113.09999999962747,
+    "timestamp": "2025-09-11T19:24:58.563Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698844bmypr9tf4"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 117.59999999962747,
+    "timestamp": "2025-09-11T19:24:58.702Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698846ki80hwwpt"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 103.09999999962747,
+    "timestamp": "2025-09-11T19:24:58.820Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186988488ohts5k4f"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 86.90000000037253,
+    "timestamp": "2025-09-11T19:24:58.926Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618698929zsfn07pju"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 68.90000000037253,
+    "timestamp": "2025-09-11T19:24:59.004Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761869900602naf6xrj"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 60.19999999925494,
+    "timestamp": "2025-09-11T19:24:59.076Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699078fwvaagw54"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 62.29999999888241,
+    "timestamp": "2025-09-11T19:24:59.148Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699151laqpy68sn"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 66.09999999962747,
+    "timestamp": "2025-09-11T19:24:59.222Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699224vydsjv9mf"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 72.79999999888241,
+    "timestamp": "2025-09-11T19:24:59.303Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699306n611vy5tb"
+  },
+  {
+    "fps": 11,
+    "memory": 577.0644311904907,
+    "renderTime": 98.19999999925494,
+    "timestamp": "2025-09-11T19:24:59.411Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699414hk30kx7bj"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 98.19999999925494,
+    "timestamp": "2025-09-11T19:24:59.417Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186994206eta6fjsz"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 98.20000000111759,
+    "timestamp": "2025-09-11T19:24:59.516Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186995195qmaikzse"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 94.59999999962747,
+    "timestamp": "2025-09-11T19:24:59.623Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699626umvgvhqa2"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 73.40000000037253,
+    "timestamp": "2025-09-11T19:24:59.704Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699707qr4da7pcf"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:24:59.779Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699781jqc9ic0rs"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 61.90000000037253,
+    "timestamp": "2025-09-11T19:24:59.846Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699848fxg9olpku"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 60.20000000111759,
+    "timestamp": "2025-09-11T19:24:59.918Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576186999210q8q5ij7a"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 66.80000000074506,
+    "timestamp": "2025-09-11T19:24:59.992Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618699994iyn7mpn6u"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 68.30000000074506,
+    "timestamp": "2025-09-11T19:25:00.069Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700070o6w2n5z1j"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 60.40000000037253,
+    "timestamp": "2025-09-11T19:25:00.134Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700136yoy36ykil"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 59.5,
+    "timestamp": "2025-09-11T19:25:00.203Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700205vrv762kaz"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 60.100000001490116,
+    "timestamp": "2025-09-11T19:25:00.272Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700274ozsaz1q6f"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 86.90000000037253,
+    "timestamp": "2025-09-11T19:25:00.367Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700369dqre1mbai"
+  },
+  {
+    "fps": 11,
+    "memory": 586.0781450271606,
+    "renderTime": 69.90000000037253,
+    "timestamp": "2025-09-11T19:25:00.446Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700448kzqnjhkb2"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 69.90000000037253,
+    "timestamp": "2025-09-11T19:25:00.456Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700459mlk4o269o"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 82.5,
+    "timestamp": "2025-09-11T19:25:00.539Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700542t1we0mxic"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 67.19999999925494,
+    "timestamp": "2025-09-11T19:25:00.613Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700615xab2whpsu"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 68.5,
+    "timestamp": "2025-09-11T19:25:00.691Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700694sa8eyqflg"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 63.59999999962747,
+    "timestamp": "2025-09-11T19:25:00.761Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700763ls4oxnz3q"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 62.30000000074506,
+    "timestamp": "2025-09-11T19:25:00.834Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700836ktfyu7co1"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 63.100000001490116,
+    "timestamp": "2025-09-11T19:25:00.906Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618700908p43pi0dtc"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 68.29999999888241,
+    "timestamp": "2025-09-11T19:25:00.979Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187009821fpz1csbb"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 65.60000000149012,
+    "timestamp": "2025-09-11T19:25:01.056Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701058th23nt4io"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 62.20000000111759,
+    "timestamp": "2025-09-11T19:25:01.127Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701129cpygb61xp"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 62.100000001490116,
+    "timestamp": "2025-09-11T19:25:01.198Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701200dkbye5946"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 64.19999999925494,
+    "timestamp": "2025-09-11T19:25:01.268Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701271byhxraqxo"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 65.59999999962747,
+    "timestamp": "2025-09-11T19:25:01.344Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701346l6r49kx5i"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 62.69999999925494,
+    "timestamp": "2025-09-11T19:25:01.412Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701489w8ej83vl5"
+  },
+  {
+    "fps": 13,
+    "memory": 566.1014375686646,
+    "renderTime": 58.70000000111759,
+    "timestamp": "2025-09-11T19:25:01.479Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187014936i86g711k"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 58.70000000111759,
+    "timestamp": "2025-09-11T19:25:01.486Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701496rc1beg2se"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 67.09999999962747,
+    "timestamp": "2025-09-11T19:25:01.554Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701556x1lav5iak"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 63.899999998509884,
+    "timestamp": "2025-09-11T19:25:01.626Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701628euulgfaaz"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 61.90000000037253,
+    "timestamp": "2025-09-11T19:25:01.694Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701696i0tglk7da"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 63.80000000074506,
+    "timestamp": "2025-09-11T19:25:01.768Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701770g2q69hjs7"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 62,
+    "timestamp": "2025-09-11T19:25:01.836Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701838ro55xmeny"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 59.80000000074506,
+    "timestamp": "2025-09-11T19:25:01.905Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870190770lzcqoc6"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 62.40000000037253,
+    "timestamp": "2025-09-11T19:25:01.976Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618701978ll8fe1hd2"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 59.90000000037253,
+    "timestamp": "2025-09-11T19:25:02.041Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702043tt6xm2199"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 58.90000000037253,
+    "timestamp": "2025-09-11T19:25:02.109Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702111ofzpw26i3"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 60.29999999888241,
+    "timestamp": "2025-09-11T19:25:02.178Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702181o4mngt6x7"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 60.5,
+    "timestamp": "2025-09-11T19:25:02.249Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702251novutlkeh"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 60.69999999925494,
+    "timestamp": "2025-09-11T19:25:02.316Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702318o4uaji8bv"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:25:02.387Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702389nqrbcx4tj"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 63.59999999962747,
+    "timestamp": "2025-09-11T19:25:02.461Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187024633oyp6cwy5"
+  },
+  {
+    "fps": 14,
+    "memory": 579.3783769607544,
+    "renderTime": 57.5,
+    "timestamp": "2025-09-11T19:25:02.528Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702530flo2kunrh"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 57.5,
+    "timestamp": "2025-09-11T19:25:02.537Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702539sspmc26ng"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 67.89999999850988,
+    "timestamp": "2025-09-11T19:25:02.605Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702607byemj36hp"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 72,
+    "timestamp": "2025-09-11T19:25:02.683Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618702686lrpjdex39"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 56.90000000037253,
+    "timestamp": "2025-09-11T19:25:02.750Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187027547vg7irgu5"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:02.819Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187028211zpbmbzuf"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 59.80000000074506,
+    "timestamp": "2025-09-11T19:25:02.887Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187028898vqwab0v6"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 64.80000000074506,
+    "timestamp": "2025-09-11T19:25:02.958Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187029607lw4d0oj8"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:03.028Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703030h9q5aa57s"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 57.90000000037253,
+    "timestamp": "2025-09-11T19:25:03.093Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703095izqs09470"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 59.09999999962747,
+    "timestamp": "2025-09-11T19:25:03.162Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703164y9v0kxzu8"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:25:03.228Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703230xdwi6bvhh"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 58.30000000074506,
+    "timestamp": "2025-09-11T19:25:03.295Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703297b4iyq3zgr"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 58.399999998509884,
+    "timestamp": "2025-09-11T19:25:03.361Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187033631en0r3klz"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 59.5,
+    "timestamp": "2025-09-11T19:25:03.430Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187034328zrf5besa"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 69.70000000111759,
+    "timestamp": "2025-09-11T19:25:03.505Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703507xlps1pir6"
+  },
+  {
+    "fps": 15,
+    "memory": 563.2112474441528,
+    "renderTime": 72.5,
+    "timestamp": "2025-09-11T19:25:03.587Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703589802u2q0ba"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 72.5,
+    "timestamp": "2025-09-11T19:25:03.594Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703596tcho3vqly"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 86.40000000037253,
+    "timestamp": "2025-09-11T19:25:03.681Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703683wu0ne1rv9"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 57.90000000037253,
+    "timestamp": "2025-09-11T19:25:03.748Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703751n6rapnlwr"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 58.69999999925494,
+    "timestamp": "2025-09-11T19:25:03.816Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703818zncamuwc5"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 58.80000000074506,
+    "timestamp": "2025-09-11T19:25:03.881Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618703883shfy17zp1"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 59.40000000037253,
+    "timestamp": "2025-09-11T19:25:03.950Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187039525xpsm9xq5"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 59.70000000111759,
+    "timestamp": "2025-09-11T19:25:04.018Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187040201tlkh0n58"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 60.79999999888241,
+    "timestamp": "2025-09-11T19:25:04.084Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704086jtuml8ssp"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 61.20000000111759,
+    "timestamp": "2025-09-11T19:25:04.156Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187041588v9oflsk3"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 59.59999999962747,
+    "timestamp": "2025-09-11T19:25:04.225Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704228x6k8zv0vg"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:04.293Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704295zb6ccnzdr"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 59.80000000074506,
+    "timestamp": "2025-09-11T19:25:04.358Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704361q3vszinwi"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 58.20000000111759,
+    "timestamp": "2025-09-11T19:25:04.427Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870442919zfvj709"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 60.100000001490116,
+    "timestamp": "2025-09-11T19:25:04.497Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187044999y1mk1wxl"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 60.5,
+    "timestamp": "2025-09-11T19:25:04.563Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704566ospuwtil7"
+  },
+  {
+    "fps": 15,
+    "memory": 575.2805185317993,
+    "renderTime": 60.59999999962747,
+    "timestamp": "2025-09-11T19:25:04.633Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704635zfga6ax1g"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 60.59999999962747,
+    "timestamp": "2025-09-11T19:25:04.643Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704645dyau9cdod"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 68.09999999962747,
+    "timestamp": "2025-09-11T19:25:04.711Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704714yfyxdtut7"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 56,
+    "timestamp": "2025-09-11T19:25:04.776Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704779jvpteksb0"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 57.30000000074506,
+    "timestamp": "2025-09-11T19:25:04.844Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704846maao4cc2h"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 62.59999999962747,
+    "timestamp": "2025-09-11T19:25:04.913Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704915ft0w8junq"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 63.90000000037253,
+    "timestamp": "2025-09-11T19:25:04.988Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618704990dltyih582"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 63.59999999962747,
+    "timestamp": "2025-09-11T19:25:05.057Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705059kzfdqf3qh"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 57.09999999962747,
+    "timestamp": "2025-09-11T19:25:05.124Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705126anhmpfkko"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 57.69999999925494,
+    "timestamp": "2025-09-11T19:25:05.192Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705194mopt48zh6"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 59.59999999962747,
+    "timestamp": "2025-09-11T19:25:05.258Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705260etyu7vovv"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 57.5,
+    "timestamp": "2025-09-11T19:25:05.325Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705327vdcp83vl6"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 62.20000000111759,
+    "timestamp": "2025-09-11T19:25:05.396Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705398qiz1x54s5"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 61.5,
+    "timestamp": "2025-09-11T19:25:05.467Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705469svwv08ogr"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 57.40000000037253,
+    "timestamp": "2025-09-11T19:25:05.533Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187055369g12gy5q8"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 58.5,
+    "timestamp": "2025-09-11T19:25:05.601Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870560393ah677kh"
+  },
+  {
+    "fps": 15,
+    "memory": 590.4037675857544,
+    "renderTime": 56.5,
+    "timestamp": "2025-09-11T19:25:05.668Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705670bfo7m964w"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 56.5,
+    "timestamp": "2025-09-11T19:25:05.676Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870567865zm4t1fp"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 73.29999999888241,
+    "timestamp": "2025-09-11T19:25:05.750Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705752acc038urs"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 56.19999999925494,
+    "timestamp": "2025-09-11T19:25:05.812Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705815dklqt3xav"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 56,
+    "timestamp": "2025-09-11T19:25:05.877Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705880c5xmfuhj1"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 65.5,
+    "timestamp": "2025-09-11T19:25:05.951Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618705953yuf2dc7s7"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:06.020Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187060227bar6riok"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 60.59999999962747,
+    "timestamp": "2025-09-11T19:25:06.090Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706092ghra1zhkr"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 57,
+    "timestamp": "2025-09-11T19:25:06.157Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706159ykrc1hbv9"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 60.20000000111759,
+    "timestamp": "2025-09-11T19:25:06.227Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706229027zjqs1w"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 64.40000000037253,
+    "timestamp": "2025-09-11T19:25:06.295Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706297gw9tfuiuk"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 58.5,
+    "timestamp": "2025-09-11T19:25:06.363Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706366ufwl8ocf0"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 86,
+    "timestamp": "2025-09-11T19:25:06.458Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706462pf1hyiewv"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 64.30000000074506,
+    "timestamp": "2025-09-11T19:25:06.531Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706533alypcwts3"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 62.5,
+    "timestamp": "2025-09-11T19:25:06.602Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187066042cvuny4uv"
+  },
+  {
+    "fps": 15,
+    "memory": 573.8091745376587,
+    "renderTime": 62.5,
+    "timestamp": "2025-09-11T19:25:06.670Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187066726hinmr7fl"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 62.5,
+    "timestamp": "2025-09-11T19:25:06.680Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706682lqcr48slh"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 66.69999999925494,
+    "timestamp": "2025-09-11T19:25:06.747Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706749qvyfaqglz"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 58,
+    "timestamp": "2025-09-11T19:25:06.814Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706817azgocdq5m"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 58.5,
+    "timestamp": "2025-09-11T19:25:06.882Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706884zfktra4j5"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:06.951Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618706953b1nt2hqt4"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 60.59999999962747,
+    "timestamp": "2025-09-11T19:25:07.022Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187070247ic4vmu2u"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 57.59999999962747,
+    "timestamp": "2025-09-11T19:25:07.090Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707092mhneqpovh"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 58.29999999888241,
+    "timestamp": "2025-09-11T19:25:07.158Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707160hd802gq15"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 61.5,
+    "timestamp": "2025-09-11T19:25:07.227Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707229vxlp7nw89"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 59.59999999962747,
+    "timestamp": "2025-09-11T19:25:07.297Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707299mfi2r5lga"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 60.69999999925494,
+    "timestamp": "2025-09-11T19:25:07.363Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707365jkgbwvrfk"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:07.433Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870743566jrk07s9"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 63.59999999962747,
+    "timestamp": "2025-09-11T19:25:07.502Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707504cydiif3v0"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 60.899999998509884,
+    "timestamp": "2025-09-11T19:25:07.573Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707576wovjzy35o"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 57.69999999925494,
+    "timestamp": "2025-09-11T19:25:07.641Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187076439bfrpm9hs"
+  },
+  {
+    "fps": 14,
+    "memory": 586.7124261856079,
+    "renderTime": 59.90000000037253,
+    "timestamp": "2025-09-11T19:25:07.707Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707709z17w0w415"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 59.90000000037253,
+    "timestamp": "2025-09-11T19:25:07.717Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187077191696i6zdm"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 68.30000000074506,
+    "timestamp": "2025-09-11T19:25:07.786Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870779000kdtdupu"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 62.5,
+    "timestamp": "2025-09-11T19:25:07.853Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187078551p5fl7v6v"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 60.5,
+    "timestamp": "2025-09-11T19:25:07.925Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187079274m14q796q"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 62.90000000037253,
+    "timestamp": "2025-09-11T19:25:07.994Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618707996n86tsfr6i"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 58.70000000111759,
+    "timestamp": "2025-09-11T19:25:08.062Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708064odx8x10xo"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 61.40000000037253,
+    "timestamp": "2025-09-11T19:25:08.132Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708134j0tyjtc2z"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:08.200Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708203oyd6w08wz"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 57.79999999888241,
+    "timestamp": "2025-09-11T19:25:08.268Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708271lr5rava19"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 59.59999999962747,
+    "timestamp": "2025-09-11T19:25:08.336Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187083385qthikead"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 59.80000000074506,
+    "timestamp": "2025-09-11T19:25:08.402Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708404uecmiydyz"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 59.40000000037253,
+    "timestamp": "2025-09-11T19:25:08.473Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708475yz6hl3fp7"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 57.90000000037253,
+    "timestamp": "2025-09-11T19:25:08.541Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708542kqcyikygt"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:25:08.608Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761870861055laqvnyb"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 58.09999999962747,
+    "timestamp": "2025-09-11T19:25:08.674Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708676qihl0f52v"
+  },
+  {
+    "fps": 15,
+    "memory": 569.7584886550903,
+    "renderTime": 55,
+    "timestamp": "2025-09-11T19:25:08.736Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708738ptjsdwv00"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 55,
+    "timestamp": "2025-09-11T19:25:08.746Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708748htd2sgw5l"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 64.59999999962747,
+    "timestamp": "2025-09-11T19:25:08.811Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708813sgx85tgcn"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 58.09999999962747,
+    "timestamp": "2025-09-11T19:25:08.878Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618708880ljit8m2i1"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 64.20000000111759,
+    "timestamp": "2025-09-11T19:25:08.949Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187089518vx9q65z9"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 59.30000000074506,
+    "timestamp": "2025-09-11T19:25:09.018Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709020bvi1ohizr"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 57.69999999925494,
+    "timestamp": "2025-09-11T19:25:09.085Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709087s2421mtei"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 61.20000000111759,
+    "timestamp": "2025-09-11T19:25:09.155Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709157hovjxctq9"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 62.30000000074506,
+    "timestamp": "2025-09-11T19:25:09.223Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187092258lx74loxu"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 59.20000000111759,
+    "timestamp": "2025-09-11T19:25:09.292Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187092946klpxp1j6"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 63.69999999925494,
+    "timestamp": "2025-09-11T19:25:09.362Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709364ikpcs63u4"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 60.19999999925494,
+    "timestamp": "2025-09-11T19:25:09.431Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187094335nhzd2hx6"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 70.20000000111759,
+    "timestamp": "2025-09-11T19:25:09.510Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187095134d25x39on"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 86.79999999888241,
+    "timestamp": "2025-09-11T19:25:09.608Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709611ae9fd9apl"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 87.30000000074506,
+    "timestamp": "2025-09-11T19:25:09.708Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709710nfasnvlgn"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9002733230591,
+    "renderTime": 72.80000000074506,
+    "timestamp": "2025-09-11T19:25:09.787Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709789n57qske1v"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 72.80000000074506,
+    "timestamp": "2025-09-11T19:25:09.798Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187098010n81y9ods"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 72.5,
+    "timestamp": "2025-09-11T19:25:09.871Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709874jwyvul3b7"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 62.80000000074506,
+    "timestamp": "2025-09-11T19:25:09.941Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618709944epqawclhq"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 60,
+    "timestamp": "2025-09-11T19:25:10.011Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710014svn7b52py"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 59.90000000037253,
+    "timestamp": "2025-09-11T19:25:10.082Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710084klol6khhr"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 57.90000000037253,
+    "timestamp": "2025-09-11T19:25:10.149Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710151p7g8fjq3z"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 59.09999999962747,
+    "timestamp": "2025-09-11T19:25:10.217Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710219n2d42kn6q"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 60.5,
+    "timestamp": "2025-09-11T19:25:10.286Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187102896y0fa1ykc"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 61.19999999925494,
+    "timestamp": "2025-09-11T19:25:10.354Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710357zmm4ik876"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 59.90000000037253,
+    "timestamp": "2025-09-11T19:25:10.425Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710427fw80zd68f"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 61.40000000037253,
+    "timestamp": "2025-09-11T19:25:10.496Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710498492oo1ki0"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 63.5,
+    "timestamp": "2025-09-11T19:25:10.569Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710571swj4p92jv"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:10.638Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710640va2s12n7f"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 61.29999999888241,
+    "timestamp": "2025-09-11T19:25:10.706Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710708d5vrcjj8p"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 62.20000000111759,
+    "timestamp": "2025-09-11T19:25:10.777Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187107792o5fuyqvl"
+  },
+  {
+    "fps": 14,
+    "memory": 598.1364068984985,
+    "renderTime": 61.80000000074506,
+    "timestamp": "2025-09-11T19:25:10.845Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710847wi12737m4"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 61.80000000074506,
+    "timestamp": "2025-09-11T19:25:10.854Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710856jet2keier"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 63.09999999962747,
+    "timestamp": "2025-09-11T19:25:10.917Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187109197ib7zovjz"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 61.19999999925494,
+    "timestamp": "2025-09-11T19:25:10.987Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618710989qmykqopa1"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 59.899999998509884,
+    "timestamp": "2025-09-11T19:25:11.054Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711056xnrwrm4cp"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 58.100000001490116,
+    "timestamp": "2025-09-11T19:25:11.124Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711126ouct2ylzj"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:11.191Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711193p46a8r3wq"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 63.19999999925494,
+    "timestamp": "2025-09-11T19:25:11.260Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711262z8j1s2a1z"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 58.600000001490116,
+    "timestamp": "2025-09-11T19:25:11.327Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711329k48xxzp1p"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 57.90000000037253,
+    "timestamp": "2025-09-11T19:25:11.394Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711397go5e9b23b"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 64,
+    "timestamp": "2025-09-11T19:25:11.468Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711470dii4geu6k"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 57.40000000037253,
+    "timestamp": "2025-09-11T19:25:11.535Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711537o4knke9va"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 57.5,
+    "timestamp": "2025-09-11T19:25:11.603Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711605tl3jayq6m"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 57.40000000037253,
+    "timestamp": "2025-09-11T19:25:11.670Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711672ye2quaxpl"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 62.29999999888241,
+    "timestamp": "2025-09-11T19:25:11.738Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711740g0og0kuk4"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 58.69999999925494,
+    "timestamp": "2025-09-11T19:25:11.806Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711808emafgwn0b"
+  },
+  {
+    "fps": 15,
+    "memory": 582.216347694397,
+    "renderTime": 57.80000000074506,
+    "timestamp": "2025-09-11T19:25:11.873Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711875e7vliks2i"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 57.80000000074506,
+    "timestamp": "2025-09-11T19:25:11.884Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618711886lkm3x4x4z"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 68.69999999925494,
+    "timestamp": "2025-09-11T19:25:11.953Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187119559uegdu9nq"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 59.100000001490116,
+    "timestamp": "2025-09-11T19:25:12.022Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712024m8ajgmjfx"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 61,
+    "timestamp": "2025-09-11T19:25:12.088Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712091mjx6i403g"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 59.30000000074506,
+    "timestamp": "2025-09-11T19:25:12.160Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712162efvv00303"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 62.40000000037253,
+    "timestamp": "2025-09-11T19:25:12.228Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712230tl05k9qxm"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:12.296Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712298d59ayhbk8"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 58.5,
+    "timestamp": "2025-09-11T19:25:12.364Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712366ncsxuxf7o"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 60.30000000074506,
+    "timestamp": "2025-09-11T19:25:12.433Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712435m16ip2ivw"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 60.79999999888241,
+    "timestamp": "2025-09-11T19:25:12.504Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712507dljo95n93"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 60.40000000037253,
+    "timestamp": "2025-09-11T19:25:12.576Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712578zman631g8"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 59.30000000074506,
+    "timestamp": "2025-09-11T19:25:12.644Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712646iplwg9s1y"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 60.29999999888241,
+    "timestamp": "2025-09-11T19:25:12.714Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187127161esa4gr4q"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 59.100000001490116,
+    "timestamp": "2025-09-11T19:25:12.783Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187127843abkh0mit"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 57.09999999962747,
+    "timestamp": "2025-09-11T19:25:12.850Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712854i7m61yxq6"
+  },
+  {
+    "fps": 15,
+    "memory": 598.1801805496216,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:12.919Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187129218bxskbxve"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:12.929Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187129306ewb0zgub"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 65.19999999925494,
+    "timestamp": "2025-09-11T19:25:12.994Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618712996w6fvprl8y"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 61.40000000037253,
+    "timestamp": "2025-09-11T19:25:13.061Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713063ihkvcrskj"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 61.09999999962747,
+    "timestamp": "2025-09-11T19:25:13.132Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187131342htpsjb0n"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 58.30000000074506,
+    "timestamp": "2025-09-11T19:25:13.199Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187132016f0tn4bbo"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 60.59999999962747,
+    "timestamp": "2025-09-11T19:25:13.269Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713271gikpkc5uu"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 57.40000000037253,
+    "timestamp": "2025-09-11T19:25:13.335Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713337s1gd2mrsc"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 58.899999998509884,
+    "timestamp": "2025-09-11T19:25:13.401Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761871340361lylton3"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 57.69999999925494,
+    "timestamp": "2025-09-11T19:25:13.468Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187134709hl58szvx"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 58.20000000111759,
+    "timestamp": "2025-09-11T19:25:13.536Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713538bveizv5xs"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 67.60000000149012,
+    "timestamp": "2025-09-11T19:25:13.614Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713615qrfneu89n"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 65.40000000037253,
+    "timestamp": "2025-09-11T19:25:13.684Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713686h3b4xhyf5"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 57.90000000037253,
+    "timestamp": "2025-09-11T19:25:13.752Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187137545u9jc3xzf"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 56.59999999962747,
+    "timestamp": "2025-09-11T19:25:13.818Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713821ydui4i4dv"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 57.29999999888241,
+    "timestamp": "2025-09-11T19:25:13.886Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713888wmhzn8rul"
+  },
+  {
+    "fps": 15,
+    "memory": 583.9095697402954,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:13.954Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187139562gnmzsk3e"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:13.959Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618713961ilz2lxzmm"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 67.5,
+    "timestamp": "2025-09-11T19:25:14.027Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714029bul03m0v0"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 57.19999999925494,
+    "timestamp": "2025-09-11T19:25:14.093Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714095q3o4mi5cn"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:14.160Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714162dq4nsjagy"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 58,
+    "timestamp": "2025-09-11T19:25:14.230Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714232sib8ejp4w"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 59.5,
+    "timestamp": "2025-09-11T19:25:14.298Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714300i16skkcl4"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 57.5,
+    "timestamp": "2025-09-11T19:25:14.365Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714367kxwvl8w8m"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 59.69999999925494,
+    "timestamp": "2025-09-11T19:25:14.434Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714436jb0hn6zbv"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 61.69999999925494,
+    "timestamp": "2025-09-11T19:25:14.505Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714508ox9mhuuxi"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 61.09999999962747,
+    "timestamp": "2025-09-11T19:25:14.578Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714580m87pfble3"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 59.90000000037253,
+    "timestamp": "2025-09-11T19:25:14.647Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187146496uc2p7bu5"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 59.30000000074506,
+    "timestamp": "2025-09-11T19:25:14.716Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187147176eoo3nrez"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 56.79999999888241,
+    "timestamp": "2025-09-11T19:25:14.782Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714784419e4slzr"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 58.69999999925494,
+    "timestamp": "2025-09-11T19:25:14.851Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618714853d0wp3oiu4"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 73,
+    "timestamp": "2025-09-11T19:25:14.934Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187149363tutdnfjj"
+  },
+  {
+    "fps": 15,
+    "memory": 598.9633913040161,
+    "renderTime": 62.5,
+    "timestamp": "2025-09-11T19:25:15.001Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715003cif0m16h6"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 62.5,
+    "timestamp": "2025-09-11T19:25:15.011Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715013j221s5s7z"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 62.79999999888241,
+    "timestamp": "2025-09-11T19:25:15.074Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187150763pmkhae00"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 66.09999999962747,
+    "timestamp": "2025-09-11T19:25:15.149Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715151dpqcarbea"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 61.40000000037253,
+    "timestamp": "2025-09-11T19:25:15.221Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187152232l65vfye4"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 57.19999999925494,
+    "timestamp": "2025-09-11T19:25:15.287Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187152899hliczia5"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 57.5,
+    "timestamp": "2025-09-11T19:25:15.353Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715355xk5eqjkw9"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 59.30000000074506,
+    "timestamp": "2025-09-11T19:25:15.422Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715424u7gbczxph"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 59.80000000074506,
+    "timestamp": "2025-09-11T19:25:15.490Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761871549218mugm95x"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 58.90000000037253,
+    "timestamp": "2025-09-11T19:25:15.558Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715560r20h5zyam"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:15.627Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187156291wzr7bhgd"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 59.19999999925494,
+    "timestamp": "2025-09-11T19:25:15.695Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715697goae06rsy"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 60.19999999925494,
+    "timestamp": "2025-09-11T19:25:15.764Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715766el1iow0ut"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:25:15.834Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715836ci1ip3fd0"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 60.69999999925494,
+    "timestamp": "2025-09-11T19:25:15.905Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187159074fyv981me"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 61.79999999888241,
+    "timestamp": "2025-09-11T19:25:15.972Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618715974w4qsruhhx"
+  },
+  {
+    "fps": 15,
+    "memory": 585.2046670913696,
+    "renderTime": 60,
+    "timestamp": "2025-09-11T19:25:16.041Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716043pkbqxeynk"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 60,
+    "timestamp": "2025-09-11T19:25:16.049Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716051uo4sg9i0j"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 61.59999999962747,
+    "timestamp": "2025-09-11T19:25:16.111Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716114wcps07z1y"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 55.90000000037253,
+    "timestamp": "2025-09-11T19:25:16.179Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716182aunuj3vy4"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 59.30000000074506,
+    "timestamp": "2025-09-11T19:25:16.250Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761871625240mkjraes"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 58,
+    "timestamp": "2025-09-11T19:25:16.318Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716320byy2xi3sg"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 59,
+    "timestamp": "2025-09-11T19:25:16.382Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716384wwuauep5d"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 59.40000000037253,
+    "timestamp": "2025-09-11T19:25:16.451Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716453fxwjgazsi"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 57.59999999962747,
+    "timestamp": "2025-09-11T19:25:16.518Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716520qzlemwgdi"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 58.19999999925494,
+    "timestamp": "2025-09-11T19:25:16.585Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716587kwtyb0xip"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 59.09999999962747,
+    "timestamp": "2025-09-11T19:25:16.656Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716658rcp6y2hs4"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 58,
+    "timestamp": "2025-09-11T19:25:16.723Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716724iubbvl1s1"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 58.40000000037253,
+    "timestamp": "2025-09-11T19:25:16.789Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716791f5si188gf"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 57.69999999925494,
+    "timestamp": "2025-09-11T19:25:16.856Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716858ntvt8y7i7"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 56.69999999925494,
+    "timestamp": "2025-09-11T19:25:16.921Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716923w6n2g4rfq"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 57.899999998509884,
+    "timestamp": "2025-09-11T19:25:16.988Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618716990skwtp0dyc"
+  },
+  {
+    "fps": 15,
+    "memory": 603.139500617981,
+    "renderTime": 60,
+    "timestamp": "2025-09-11T19:25:17.054Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717056riralqsnt"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 60,
+    "timestamp": "2025-09-11T19:25:17.063Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717064mwdecacsi"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 65.10000000149012,
+    "timestamp": "2025-09-11T19:25:17.128Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717130up3vihffc"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 60.5,
+    "timestamp": "2025-09-11T19:25:17.198Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717200rujhzqa8l"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 57.59999999962747,
+    "timestamp": "2025-09-11T19:25:17.265Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717267knhaoel6m"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 58,
+    "timestamp": "2025-09-11T19:25:17.332Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717334fyef8waw5"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 58.29999999888241,
+    "timestamp": "2025-09-11T19:25:17.397Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "175761871739988muroz5i"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 58.30000000074506,
+    "timestamp": "2025-09-11T19:25:17.466Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717468rxvg0vg6a"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 57.69999999925494,
+    "timestamp": "2025-09-11T19:25:17.533Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717535kux1pwual"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 56.90000000037253,
+    "timestamp": "2025-09-11T19:25:17.596Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717598kf71eqbw0"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 58.30000000074506,
+    "timestamp": "2025-09-11T19:25:17.665Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717666atlixz9si"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 62.09999999962747,
+    "timestamp": "2025-09-11T19:25:17.737Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717739bx4cd4xra"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 59.5,
+    "timestamp": "2025-09-11T19:25:17.805Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618717808c7kmsqfw3"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 60.09999999962747,
+    "timestamp": "2025-09-11T19:25:17.875Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187178794p9388mxl"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 60.80000000074506,
+    "timestamp": "2025-09-11T19:25:17.946Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187179477rxpub9do"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 59.19999999925494,
+    "timestamp": "2025-09-11T19:25:18.016Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718018ozlhp3tms"
+  },
+  {
+    "fps": 15,
+    "memory": 588.4288759231567,
+    "renderTime": 57.59999999962747,
+    "timestamp": "2025-09-11T19:25:18.083Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187180857lhsig9j1"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 57.59999999962747,
+    "timestamp": "2025-09-11T19:25:18.092Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718094m0dtgypa7"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 66.30000000074506,
+    "timestamp": "2025-09-11T19:25:18.159Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718161j7eg2fhqv"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 56.59999999962747,
+    "timestamp": "2025-09-11T19:25:18.227Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718229yfqo51mqi"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 60.5,
+    "timestamp": "2025-09-11T19:25:18.293Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187182956t7ypf8rv"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 59.19999999925494,
+    "timestamp": "2025-09-11T19:25:18.361Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718363okmkrmr65"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 58.100000001490116,
+    "timestamp": "2025-09-11T19:25:18.428Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718430mdyew1ql9"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 60.30000000074506,
+    "timestamp": "2025-09-11T19:25:18.499Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718501mksnlly0j"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 52.59999999962747,
+    "timestamp": "2025-09-11T19:25:18.560Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718562q502zt85a"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 59.69999999925494,
+    "timestamp": "2025-09-11T19:25:18.625Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "1757618718627tqypm80nd"
+  },
+  {
+    "fps": 15,
+    "memory": 605.3392877578735,
+    "renderTime": 59.19999999925494,
+    "timestamp": "2025-09-11T19:25:18.692Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "id": "17576187186948hjtp6j3l"
+  }
+]

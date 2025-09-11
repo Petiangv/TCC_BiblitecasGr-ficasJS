@@ -120,7 +120,7 @@ class PerformanceAnalyzer:
         
         return "\n".join(report)
     
-       
+        
     def export_to_csv(self, csv_path):
         """Exporta dados para CSV"""
         if not self.df.empty:
@@ -132,8 +132,6 @@ def main():
     # Configuração
     JSON_FILE = 'performanceData.json'
     OUTPUT_CSV = 'performance_analysis.csv'
-    PLOT_IMAGE = 'performance_plot.png'
-    HEATMAP_IMAGE = 'correlation_heatmap.png'
     
     # Inicializa analisador
     analyzer = PerformanceAnalyzer(JSON_FILE)
@@ -153,9 +151,7 @@ def main():
         for stat, value in values.items():
             print(f"  {stat}: {value}")
     
-
-        
-    # Exporta para CSV
+    
     analyzer.export_to_csv(OUTPUT_CSV)
     
     # Análises adicionais

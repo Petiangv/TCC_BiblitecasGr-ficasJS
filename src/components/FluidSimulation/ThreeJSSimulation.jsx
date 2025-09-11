@@ -46,7 +46,7 @@ const ThreeJSSimulation = ({ particleCount, isRunning, onMetricsUpdate, speedFac
     }));
     
     for (let i = 0; i < particleCount; i++) {
-      const radius = 0.011 + Math.random() * 0.003;
+      const radius = 0.009 + Math.random() * 0.002;
       const geometry = new THREE.SphereGeometry(radius, 32, 32);
       const material = new THREE.MeshBasicMaterial({
         color: new THREE.Color(Math.random(), Math.random(), Math.random())
